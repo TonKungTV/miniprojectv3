@@ -1,0 +1,31 @@
+{
+
+    "bills": [],
+    "customers": [],
+    "products": [
+        {
+            "quantity": 26,
+            "price": 20.0,
+            "name": "Chips",
+            "type": "SNACK"
+        },
+        {
+            "quantity": 22,
+            "price": 15.0,
+            "name": "Soda",
+            "type": "DRINK"
+        },
+        {
+            "quantity": 6,
+            "price": 45.0,
+            "name": "Kapao",
+            "type": "FOOD"
+        },
+        {
+            "quantity": 75,
+            "price": 20.0,
+            "name": "Lays",
+            "type": "SNACK"
+        }
+    ]
+}
